@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "da9ed89f-61be-49fe-8338-efaa11d10e78": {
+      "label": "bissett Nelson",
+      "is_offline": false,
+      "file_url": "https://youtu.be/jMs3f8km3Z0",
+      "duration": 6803,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "bissett Nelson",
+  "created_at": "2025-02-24T16:53:31.785Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-02-24T16:53:31.785Z",
+  "updated_by": "spokenweb"
+}
