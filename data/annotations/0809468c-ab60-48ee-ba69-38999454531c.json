@@ -1,5 +1,320 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Silence.] | Video Description: Black screen with static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "[Unknown]"
+        }
+      ],
+      "uuid": "c27e26f4-7a2c-481d-b2bc-762843e82257"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, different degrees of closeup of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. The windows from across the street are also visible, including an outdoor \"a LOUER\" sign. People frequently pass in front of the camera. When the camera zooms out, the words \"enough said\" become visible, as decals on the window."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "[Bistro 4 stage]"
+        }
+      ],
+      "uuid": "31d9283c-396d-49ae-ad67-16aa96f13349"
+    },
+    {
+      "start_time": 6,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bonsoir, mes chers amis, and welcome back to yet another segment of Enough Said. Nice to see everyone out (?). In nearly spring, I have the immense pleasure this evening presenting two fine artists of various disciplinary persuasions. I would like to know that everyone is comfortable, as we have a real treat (?). We have, this evening, a cabaret of poetry. And the participants---and your performers---are Endre Farkas and Suzanne Nuttall. Endre Farkas started creating sound-text-movement poetry-performance pieces in the late 70s, before the spoken word was a glint in anyone's imagination. Endre worked with collaborators from different disciplines across Canada. He's also published seven books of poetry. His most recent book is Surviving Words (The Muses' Company, 1994) and is available along with the Bare Bones cassette (En Guard Records, 1994), pertaining to Suzanne Nuttall, who is one half of Bare Bones. They've just returned from a successful tour out West and in the Yukon. They've two cassettes and a CD to their credit. I think I see both CDs and cassettes, is that right (?), in your corner. Just on your way out, or on your way in, you can have a look at this stuff, because they're beautiful offerings. So, Bare's most recent CD-cassette is called Elusive and is available here this evening. So, both Surviving Words and Elusive---anytime, during the evening, you might wanna choose the intermission, but anytime, (on your left just before the?) door. And now, welcome to the cabaret! [Applause.] | Video Description: Camera zooms out to a medium closeup as Lee Gotham adjusts the mic. Red button-down shirt atop a black t-shirt; full beard, long hair tied in a bun. Gotham makes introductory remarks. Camera zooms out to a medium shot at the end."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b7725da5-5a41-45f2-aabb-a2d9cf13f3c8"
+    },
+    {
+      "start_time": 133,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks the audience. Introduces and performs \"as the breath is the journey i move and it is imperceptible as is the breath just breathed in and out.\" The piece begins with sounds of breathing into the mic, followed by vocalizations of each word that forms the title. Applause.] | Video Description: Medium shot zooms into a closeup as Endre Farkas approaches the mic and thanks the audience. Light striped button-down shirt, red suspenders; thick eyebrows, short grey hair with hairline receding. Performs the piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "baad0ea0-a83c-47f0-9062-1607641e009c"
+    },
+    {
+      "start_time": 337,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Suzanne Nuttall says \"naked\" off-camera, which Endre Farkas repeats as Nuttall walks to join him on stage. Each repeats the word many more times, sometimes in unison, then Farkas begins reciting a piece opening with the line, \"Against the world and without time to be innocent,\" which proceeds as a dialogue between the performers. Applause at the end.] | Video Description: Zoom out to a medium long shot as Endre Farkas stands at the mic and Suzanne Nuttall walks to join him on stage. Nuttall wears dark pants, a long-sleeved white button-down shirt with black details on both sides of the buttons, short dark hair combed up, one dangle earring on the right lobe. They perform a piece while standing side by side, with the mic stand between them. At some point they dramatize searching for something and switch sides on stage, then briefly hold hands. Zoom out to a medium long shot as Farkas drinks water and Nuttall leaves the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
+      "uuid": "9cf71318-6766-43a1-99e6-f968cd87a4b0"
+    },
+    {
+      "start_time": 720,
+      "end_time": 1090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs \"Au Canada.\" Applause.] | Video Description: Medium long shot then zoom into different degrees of closeup as Endre Farkas introduces and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "e42fa7f0-bec5-4047-88e2-22f770ee62d5"
+    },
+    {
+      "start_time": 1090,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[They perform a piece opening with the line \"I love you, as a way to (start?) the bone.\" Mid-performance, Nuttall starts singing. Then, Nuttall and Farkas resume the spoken-word dialogue.] | Video Description: Medium shot as Suzanne Nuttall walks onto the stage to perform a piece with Endre Farkas, both standing, the mic  between them. Mid-piece, Nuttall starts singing while Farkas stands looking at her. They then resume the dialogue piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
+      "uuid": "a430c0bf-e9cc-466f-95e3-638a963792b0"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a  solo passage opening with the line \"It is what we cannot have that is erotic.\" At some point, a prolonged silence suggests Nuttall forgot a line. Audience laughter, followed by Farkas saying \"Your turn!\"] | Video Description: Zoom out to a medium long shot as Suzanne Nuttall walks to each side of the stage, addressing the audience, while Endre Farkas stands to the side. The camera zooms into a medium closeup and pans, accompanying Nuttall from side to side. Mid-performance, Nuttall forgets a line and signals to Farkas, smiling and asking for help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
+      "uuid": "8518d6fa-5534-488d-aa51-027a9b8b28c6"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[They perform a piece opening with Farkas breathing loudly into the mic. Applause.] | Video Description: Medium shot as Zoom Endre Farkas and Suzanne Nuttall stand side by side, near the mic, performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
+      "uuid": "f7f41709-f8ee-4f24-873d-8a91a525b04d"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Speaks amid applause.] We will take a five-minute break and we'll be back with \"Murders.\" Thank you. | Video Description: Medium long shot as Farkas makes remarks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        }
+      ],
+      "uuid": "0151c8c4-e109-4309-bd25-6832b9194842"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Makes announcements of upcoming Enough Said events, including Clifford Duffy's \"The Invention of God,\" at a different venue, and Dee Smith at Bistro 4. Introduces the second half of the poetic cabaret. Background music and ambient sounds.] | Video Description: Cut to a medium long shot then zoom into a closeup as Lee Gotham makes remarks while holding a cup, introducing the second part of the show. The camera zooms out to Gotham and Farkas making final preparations for the second act."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f66cafb6-2351-47e9-9737-20adbb0eaed6"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background music and ambient sounds as Farkas and Nuttall make final preparations for \"Murders.\"] | Video Description: Cut to a medium long shot of the stage, now with Endre Farkas sitting alone at a table upstage, while Suzanne Nuttall, now wearing a suit coat, walks towards the camera then past it. Farkas stands up and also walks towards the camera, then back to his table on stage, drinks from a cup, then stands and walks towards the camera one more time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
+      "uuid": "617a1cec-fe47-4306-94f7-0a8005cc69f0"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 2639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background music, ambient sounds. As the music ends, Endre Farkas and Suzanne Nuttall perform a one-act play titled \"Murders.\" At the end, Farkas thanks the audience amid applause and states, \"If you have any mysteries, we'd be glad to solve them.\"] | Video Description: Cut again to a medium long shot of the stage. Endre Farkas sits alone at a table holding a cup. The camera slowly zooms in to and out of him, settling into a medium long shot during most of the performance. Suzanne Nuttall walks into view and stands by a flipchart to announce \"Chapter one\"; Nuttall then describes the setting of the \"Welcome Cafe,\" where the drama takes place. Farkas stands up and puts on a detective trench coat and hat. Farkas and Nuttall perform a one-act play. Mid-performance, Farkas walks amid the audience. At the end, Farkas undoes his trench coat while thanking the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Suzanne Nuttall"
+        }
+      ],
+      "uuid": "156ed28a-a9c1-4ba9-b927-d55813d7ad9e"
+    },
+    {
+      "start_time": 2639,
+      "end_time": 2640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9dc8976d-5339-4626-b741-9350fd1145cb"
+    }
+  ],
   "set": "Default",
   "event_id": "0cc5ec34-3b77-42f3-9ab3-a2d4fff35ed1",
   "source_id": "b6eb15ce-572c-4d72-939d-6872dbc582aa"
