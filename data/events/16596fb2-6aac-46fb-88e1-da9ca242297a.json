@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "7f0a3eca-a789-4f60-b165-3d1c00071a9e": {
+      "label": "xxx",
+      "is_offline": false,
+      "file_url": "https://youtu.be/UQ20Kf3gCNk",
+      "duration": 9070,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "gotham diamond spreadsheet automatic change ",
+  "created_at": "2025-03-03T16:46:57.964Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-03-03T16:46:57.964Z",
+  "updated_by": "spokenweb"
+}
